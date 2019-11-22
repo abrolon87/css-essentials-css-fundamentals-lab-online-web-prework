@@ -6,16 +6,17 @@ body {
 
 h1 {
   text-align: center;
-
 }
 
-nav {
+nav,
+figcaption {
   text-align: center;
-  padding-top: 0px;
-  padding-right: 10px;
-  padding-bottom: 0px;
-  padding-left: 10px;
+}
+
+nav a {
+  padding: 10px;
   background-color: pink;
+  margin: 0 auto;
 }
 
 
