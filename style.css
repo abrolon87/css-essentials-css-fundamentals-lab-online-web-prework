@@ -8,6 +8,6 @@ h1 {
   color: red;
 }
 
-h3 {
-  align-center;
+#details {
+  text-align: center;
 }
